@@ -15,6 +15,7 @@ Deploy_____ push app to serves or app store
 Operate____ keep app running, fix any issues
 Monitor____arrange performance and feedback
 
-GitHub:
+GitHub: 
 
 it is a online platform used to store the projects.
+for this there should be have individual Github Account.
