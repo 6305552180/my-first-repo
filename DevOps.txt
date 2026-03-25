@@ -1,0 +1,20 @@
+DevOps:
+development + operations
+-> it is a culture + set of practices + tools that help
+--->Real time Ex:  1. the developer writes code to add "TRACK MY ORDER" feature.
+DevOps helps to release features faster
+
+DevOps Lifecycle:
+
+Plan ___ define what to build -----> Swiggy decides to add a "Dark Mode" feature.
+Develop___ write the code
+Build____ compile code into deployable format
+Test____ check for bugs automatically
+Release____ approve the build for deployment
+Deploy_____ push app to serves or app store
+Operate____ keep app running, fix any issues
+Monitor____arrange performance and feedback
+
+GitHub:
+
+it is a online platform used to store the projects.
